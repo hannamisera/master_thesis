@@ -9,7 +9,7 @@ Die Analyse und Bearbeitung von Stellenanzeigen sind von großen Hürden begleit
 Denn Stellenanzeigen verfügen über eine innere Struktur, welche sich nicht immer durch Grammatik oder Formatierung ableiten lässt. 
 Untersuchungen dieser Arbeit zeigen, dass sich Stellenanzeigen mit Hilfe bestimmter Regeln in zwei Sinnabschnitte strukturieren lassen. Diese Regeln können  niemals auf sämtliche Stellenanzeigen angewendet werden. Deshalb besteht der Vorschlag dieser Arbeit darin, Stellenanzeigen mittels regulärer Ausdrücke zu annotieren. Ergebnis ist ein Annotation-Skript, das eine Annotation von Stellenanzeigen mit individueller Fehlerkorrektur, ermöglicht. 
 
-### Inhalt dieses Repositorys 
+### Inhalt dieses Repositories 
 
 
 ### Daten 
