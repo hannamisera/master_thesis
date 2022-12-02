@@ -22,17 +22,19 @@
 
 ## Abstract
 Diese Arbeit ist eingebettet in ein FWF-gefördertes Forschungsprojekt mit dem Titel „The making of the incredibly differentiated labor market: Evidence from job offers from ten decades“. Ziel dieses Forschungsprojekts ist es, Informationen zur Arbeitssuche, zum Arbeitsangebot und der Vermittlung von Angebot und Nachfrage, aus digitalisierten historischen Zeitungen zu extrahieren. Hierfür werden Stellenanzeigen des 19. und 20. Jahrhunderts untersucht. Diese Arbeit soll einen Beitrag für die anschließende, inhaltliche Textanalyse darstellen.
-Die Datengrundlage sind Stellenanzeigen, welche aus Zeitungsscans des ANNO-Korpus extrahiert und mit Hilfe von OCR transkribiert wurden. Die digitale Analyse dieser Quellen birgt ein enormes Potenzial, durch die Verarbeitung von sehr großen Datenmengen. Denn computerbasierte Distant-Reading Methoden bieten die Chance, Einheiten in Texten wahrzunehmen und dadurch Erkenntnisse über ein Gesamtsystem abzuleiten. 
-Die Analyse und Bearbeitung von Stellenanzeigen sind von großen Hürden begleitet. Die sehr kurzen Texte, eine fehlerhafte OCR-Transkription, sowie die reduzierte Grammatik, erschweren deskriptive und strukturelle Analysen. Daraus ergibt sich das Ziel, Stellenanzeigen in einem größeren Stil zu strukturieren. Anschließend wird untersucht, welche Potenziale und Risiken sich aus einer solchen Annotation ergeben.
-Denn Stellenanzeigen verfügen über eine innere Struktur, welche sich nicht immer durch Grammatik oder Formatierung ableiten lässt. 
-Untersuchungen dieser Arbeit zeigen, dass sich Stellenanzeigen mit Hilfe bestimmter Regeln in zwei Sinnabschnitte strukturieren lassen. Diese Regeln können  niemals auf sämtliche Stellenanzeigen angewendet werden. Deshalb besteht der Vorschlag dieser Arbeit darin, Stellenanzeigen mittels regulärer Ausdrücke zu annotieren. Ergebnis ist ein Annotation-Skript, das eine Annotation von Stellenanzeigen mit individueller Fehlerkorrektur, ermöglicht. 
+Die Datengrundlage sind Stellenanzeigen, welche aus Zeitungsscans des ANNO-Korpus extrahiert und mit Hilfe von OCR transkribiert wurden. Die digitale Analyse dieser Quellen birgt ein enormes Potenzial, durch die Verarbeitung von sehr großen Datenmengen. 
+Doch zeigen Untersuchen dieser Arbeit, dass die computerbasierte und automatisierte Verarbeitung von Stellenanzeigen von großen Hürden begleitet sind. Die sehr kurzen Texte, eine fehlerhafte OCR-Transkription und die reduzierte Grammatik, erschweren deskriptive und strukturelle Analysen. Daraus ergibt sich die Frage, ob die Strukturierung durch Annotation von Stellenanzeigen, bei deskriptiven und strukturellen Analysen helfen kann. 
+Durch Literaturrecherche und Experimente wird gezeigt, dass Stellenanzeigen über eine innere Struktur verfügen, welche sich nicht immer durch Grammatik oder Formatierung ableiten lässt.
+Aus diesem Grund ist die Annotation von Stellenanzeigen, basierend auf starren Regeln, nur bedingt möglich. 
+Deshalb besteht der Vorschlag dieser Arbeit darin, Stellenanzeigen nicht ausschließlich durch reguläre Ausdrücke zu annotieren. Ergebnis ist ein Skript, das eine Annotation von Stellenanzeigen vorschlägt, jedoch eine individuelle Fehlerkorrektur ermöglicht.
+
 
 ## Inhalt dieses Repositories 
 Dieses Repository beinhaltet alle Notebooks, die für die Masterarbeit erstellt wurden. 
-Die Notebooks wurden nach den Kapiteln benannt, in denen der Code vorkommt und verwendet wird. 
+Die Notebooks wurden nach den Kapiteln der Thesis benannt, in denen der Code vorkommt und verwendet wird. 
 Die Notebooks enthalten Analysen, um Struktur und Inhalt von Stellenanzeigen näher  zu. beschreiben. Davon abgeleitet, wurden RegEx-Muster erstellt, um Stellenanzeigen leichter zu annotieren. Dieses Annotationsskript, findet sich in der PY-Datei. 
 
-Die Masterarbeit verweist auf das Skript 5.2.2_regex_annotation_skript.py, da der Code des Annotationsskript nicht separat in der Arbeit abgedruckt wird. Auch das Flow Chart ist lediglich im Repository zu finden, da die Datei zu groß ist. 
+Die Masterarbeit verweist auf das Skript 5.2.2_regex_annotation_skript.py, da der Code des Annotationsskript nicht separat in der Arbeit abgedruckt wird. Auch das Flow Chart ist im Repository zu finden, da die Datei hier etwas größer abgespeichert werden kann. 
 
 
 ## Daten 
