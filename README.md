@@ -6,7 +6,7 @@
 ##### zur Erlangung des akademischen Grades Master of Arts (MA) 
 
 ##### an der Karl-Franzens-Universität Graz 
-##### am Institut Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities
+##### am Institut "Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities"
 
 #
 
